@@ -105,8 +105,9 @@ const usersDatabase = {
     lastName: "Ilogbo",
     email: "calvarymodelprivateschool@gmail.com",
     accountActivated: true,
-    password:'Calvary12345';
+    password:'Calvary12345'; 
   }
 
 }
+console.log
 
