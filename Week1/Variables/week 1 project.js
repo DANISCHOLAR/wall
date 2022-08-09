@@ -109,5 +109,3 @@ const usersDatabase = {
   }
 
 }
-console.log
-
